@@ -1,3 +1,6 @@
 [submodule "dataModel.OPCUA"]
 	path = dataModel.OPCUA
 	url = https://github.com/smart-data-models/dataModel.OPCUA.git
+[submodule "dataModel.AutonomousMobileRobot"]
+	path = dataModel.AutonomousMobileRobot
+	url = https://github.com/smart-data-models/dataModel.AutonomousMobileRobot.git
