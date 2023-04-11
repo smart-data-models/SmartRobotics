@@ -1,6 +1,3 @@
-[submodule "dataModel.RoboticIndustrialActivities"]
-	path = dataModel.RoboticIndustrialActivities
-	url = https://github.com/smart-data-models/dataModel.RoboticIndustrialActivities.git
 [submodule "dataModel.AutonomousMobileRobot"]
 	path = dataModel.AutonomousMobileRobot
 	url = https://github.com/smart-data-models/dataModel.AutonomousMobileRobot.git
