@@ -7,3 +7,6 @@
 [submodule "dataModel.RoboticIndustrialActivities"]
 	path = dataModel.RoboticIndustrialActivities
 	url = https://github.com/smart-data-models/dataModel.RoboticIndustrialActivities.git
+[submodule "data.Model.ROS2"]
+	path = data.Model.ROS2
+	url = https://github.com/smart-data-models/data.Model.ROS2.git
